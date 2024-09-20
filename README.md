@@ -23,9 +23,11 @@ Sigue los pasos a continuación para añadir tu bitácora a este repositorio uti
 3. Luego, haz clic en el icono del lápiz (✏️) en la esquina superior derecha del archivo para editarlo.
 4. Desplázate hasta la sección **Listado de Bitácoras** y añade tu entrada en el formato siguiente:
    ```markdown
-   - [Nombre de Usuario del Alumno](https://github.com/tu-usuario/practicas-ISE)```
+   - [Nombre de Usuario del Alumno](https://github.com/tu-usuario/practicas-ISE)
+   ```
 Por ejemplo:
-- [Juan Pérez](https://github.com/juanperez/practicas-ISE)
+- [Juanpe](https://github.com/juanpe/practicas-ISE)
+- [Mariki](https://github.com/mariki/practicas-ISE)
 
 5. Desplázate hasta el final de la página y escribe un mensaje de confirmación en el campo **Commit changes**. Ejemplo: "Agrego enlace a mi bitácora".
 6. Haz clic en **Commit changes** para guardar tus cambios en tu fork.
@@ -35,8 +37,8 @@ Por ejemplo:
 1. Después de confirmar tus cambios, ve a la pestaña **Pull Requests** en el repositorio de tu fork (copia).
 2. Haz clic en el botón verde **New Pull Request**.
 3. Asegúrate de que GitHub esté comparando tu fork con el repositorio original del profesor. Debería mostrar algo como:
-        - **base repository**: `github-username-del-profesor/bitacoras-ISE-24-25`
-        - **head repository**: `tu-usuario/bitacoras-ISE-24-25`
+-  **base repository**: `github-username-del-profesor/bitacoras-ISE-24-25`
+-  **head repository**: `tu-usuario/bitacoras-ISE-24-25`
 4. Revisa los cambios propuestos para asegurarte de que todo esté correcto.
 5. Haz clic en **Create Pull Request**.
 6. En la página siguiente, escribe un título descriptivo para el pull request, como "Agrego enlace a mi repositorio de bitácoras". Finalmente, haz clic en **Create Pull Request**.
