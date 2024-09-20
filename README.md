@@ -17,7 +17,7 @@ Sigue los pasos a continuación para añadir tu bitácora a este repositorio uti
 1. Ve a la página del repositorio del profesor: `https://github.com/juanluck/bitacoras-ISE-24-25`.
 2. Haz clic en el botón **Fork** en la esquina superior derecha. Esto creará una copia del repositorio en tu propia cuenta de GitHub.
 
-### 3. Edita el archivo README.md desde la web
+### 3. Edita el archivo C1/README.md desde la web
 1. Dentro de tu fork (el repositorio que acabas de copiar a tu cuenta), busca la carpeta con tu subgrupo, por ejemplo `C1` que contendrá un archivo `README.md`.
 2. Haz clic en `README.md` para abrirlo.
 3. Luego, haz clic en el icono del lápiz (✏️) en la esquina superior derecha del archivo para editarlo.
