@@ -18,15 +18,16 @@ Sigue los pasos a continuación para añadir tu bitácora a este repositorio uti
 2. Haz clic en el botón **Fork** en la esquina superior derecha. Esto creará una copia del repositorio en tu propia cuenta de GitHub.
 
 ### 3. Edita el archivo C1/README.md desde la web
-1. Dentro de tu fork (el repositorio que acabas de copiar a tu cuenta), busca la carpeta con tu subgrupo, por ejemplo `C1` que contendrá un archivo `README.md`.
-2. Haz clic en `README.md` para abrirlo.
+1. Dentro de tu fork (el repositorio que acabas de copiar a tu cuenta), crea un nuevo fichero llamado ´tu_usuario_en_github.md´ dentro de la carpeta de tu subgrupo (por ejemplo `C1`). Para ello:
+2. Haz clic en `Add file` y escribe la ruta completa ´C1/tu_usuario.md´.
 3. Luego, haz clic en el icono del lápiz (✏️) en la esquina superior derecha del archivo para editarlo.
-4. Desplázate hasta la sección **Listado de Bitácoras** y añade tu entrada en el formato siguiente:
+4. Introduce un enlace a tu repositorio:
    ```markdown
    - [Nombre de Usuario del Alumno](https://github.com/tu-usuario/practicas-ISE)
    ```
 Por ejemplo:
 - [Juanpe](https://github.com/juanpe/practicas-ISE)
+o
 - [Mariki](https://github.com/mariki/practicas-ISE)
 
 5. Desplázate hasta el final de la página y escribe un mensaje de confirmación en el campo **Commit changes**. Ejemplo: "Agrego enlace a mi bitácora".
