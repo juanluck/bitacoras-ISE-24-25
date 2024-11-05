@@ -6,7 +6,7 @@ Cada alumno debe crear un repositorio privado en GitHub llamado `practicas-ISE` 
 
 ## Instrucciones detalladas
 
-Sigue los pasos a continuación para añadir tu bitácora a este repositorio utilizando la interfaz web de GitHub.
+Sigue los pasos a continuación para añadir tu bitácora a este repositorio utilizando la interfaz web de GitHub
 
 ### 1. Crea tu repositorio privado en GitHub
 1. Inicia sesión en tu cuenta de GitHub y crea un repositorio privado llamado **`practicas-ISE`**.
