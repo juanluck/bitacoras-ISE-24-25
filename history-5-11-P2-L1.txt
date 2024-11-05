@@ -1,0 +1,1000 @@
+  364  ls
+  365  rm -r docencia/
+  366  uptime 
+  367  cat /proc/uptime 
+  368  ip a
+  369  cd 
+  370  pwd
+  371  ls
+  372  cd Escritorio/
+  373  ls
+  374  ls -a
+  375  cd .
+  376  cd ..
+  377  cd Escritorio/
+  378  man ls
+  379  mkdir docencia
+  380  cd docencia/
+  381  mkdir 24-25
+  382  cd 24-25/
+  383  mkdir s1
+  384  cd s1/
+  385  mkdir fi
+  386  cd fi/
+  387  pwd
+  388  mkdir p1
+  389  cd p1
+  390  ls
+  391  mkdir ej1
+  392  mkdir ej2
+  393  mkdir ej3
+  394  mkdir ej4
+  395  mkdir ej5
+  396  mkdir ej6
+  397  mkdir ej7
+  398  pwd
+  399  cd ../../../../../
+  400  pwd
+  401  tree .
+  402  cd docencia/24-25/s1/fi/p1/ej1/
+  403  ls
+  404  touch ejemplo.txt
+  405  cat ejemplo.txt 
+  406  more ejemplo.txt 
+  407  less ejemplo.txt 
+  408  gedit ejemplo.txt 
+  409  ls
+  410  holra
+  411  gedit ejemplo.txt &
+  412  ls
+  413  cat ejemplo.txt 
+  414  ls
+  415  clear
+  416  touch error.txt
+  417  ls
+  418  rm error.txt 
+  419  ls
+  420  cd ..
+  421  ls
+  422  man rm
+  423  ls
+  424  rm -r ej7
+  425  ls
+  426  ls 
+  427  ls ej1/
+  428  cp ej1/ejemplo.txt ej2/
+  429  ls ej2
+  430  ls
+  431  cd ej1/
+  432  ls
+  433  cat ejemplo.txt 
+  434  cat ejemplo.txt > salida.txt
+  435  lscpu
+  436  lscpu > informacion-cpu.txt
+  437  cd /
+  438  cd proc/
+  439  locate signature
+  440  locate sign
+  441  locate juanlu-sign
+  442  locate sign
+  443  locate sign | grep tesis | grep juanlu
+  444  locate sign | grep juanlu
+  445  locate signature | grep juanlu
+  446  cd /home/juanlu/MEGA/docencia/lettres recomandation/
+  447  cd /home/juanlu/MEGA/docencia/lettres\ recomandation/
+  448  ls
+  449  dolphin .
+  450  ls
+  451  cd
+  452  ls
+  453  pwd
+  454  ls
+  455  cd Escritorio/
+  456  ls
+  457  ls -a
+  458  cat .directory 
+  459  rm .directory 
+  460  ls -a
+  461  rm .directory 
+  462  ls -a
+  463  ls
+  464  cd ..
+  465  cd Escritorio/
+  466  ls -a
+  467  pwd
+  468  man ls
+  469  ls -a
+  470  mkdir docencia
+  471  cd docencia/
+  472  mkdir 24-25
+  473  cd 24-25/
+  474  ls
+  475  mkdir s1
+  476  cd s1/
+  477  mkdir fi
+  478  cd fi/
+  479  ls
+  480  mkdir p1
+  481  cd p1
+  482  mkdir ej1
+  483  mkdir ej2
+  484  mkdir ej3
+  485  mkdir ej4
+  486  mkdir ej5
+  487  mkdir ej6
+  488  mkdir ej7
+  489  ls
+  490  ls -a
+  491  cd ../../../../../
+  492  ls
+  493  ls -R
+  494  tree .
+  495  cd docencia/24-25/s1/fi/p1/ej1/
+  496  ls
+  497  gedit 
+  498  touch hola-mundo.txt
+  499  ls
+  500  gedit hola-mundo.txt 
+  501  gedit hola-mundo.txt &
+  502  ls
+  503  cat hola-mundo.txt 
+  504  ls
+  505  hostname
+  506  whoami
+  507  cd ../../../../../../
+  508  rm -r docencia/
+  509  cd ..
+  510  cd
+  511  pwd
+  512  ls
+  513  cd Escritorio/
+  514  ls
+  515  pwd
+  516  ls -a
+  517  ls
+  518  cd .
+  519  cd ..
+  520  pwd
+  521  man ls
+  522  cd Escritorio/
+  523  ls
+  524  mkdir docencia
+  525  cd docencia/
+  526  mkdir 24-25
+  527  cd 24-25/
+  528  pwd
+  529  mkdir s1
+  530  cd ../
+  531  ls
+  532  cd 24-25/s1/
+  533  ls
+  534  mkdir fi
+  535  cd fi/
+  536  ls
+  537  mkdir p1
+  538  cd p1/
+  539  mkdir ej1
+  540  mkdir ej2
+  541  mkdir ej3
+  542  mkdir ej4
+  543  mkdir ej5
+  544  mkdir ej6
+  545  mkdir ej7
+  546  ls
+  547  pwd
+  548  cd ej1/
+  549  ls
+  550  touch hola-mundo.txt
+  551  vi hola-mundo.txt 
+  552  gedit hola-mundo.txt 
+  553  adsf
+  554  adsfa
+  555  gedit hola-mundo.txt &
+  556  firefox &
+  557  ls
+  558  cat hola-mundo.txt 
+  559  more hola-mundo.txt 
+  560  less hola-mundo.txt 
+  561  ls
+  562  clear
+  563  ls
+  564  pwd
+  565  ls
+  566  cp hola-mundo.txt ../ej5/
+  567  ls ../ej5/
+  568  ls
+  569  mv hola-mundo.txt hola.txt
+  570  lscpu
+  571  man lscpu 
+  572  lscpu > arquitectura.txt
+  573  ls
+  574  cat hola.txt 
+  575  cat arquitectura.txt 
+  576  less arquitectura.txt 
+  577  ls
+  578  rm hola.txt 
+  579  cd ../../../../../
+  580  cd ..
+  581  ls
+  582  cd ..
+  583  ls
+  584  cd Escritorio/
+  585  tree .
+  586  man rm
+  587  ls
+  588  rm -r docencia/
+  589  cd Escritorio/
+  590  ls
+  591  tree .
+  592  rm -r docencia/
+  593  ls
+  594  cd
+  595  pavucontrol 
+  596  cat /proc/cpuinfo 
+  597  cat /proc/uptime 
+  598  uptime 
+  599  lscpu 
+  600  cat /proc/cpuinfo 
+  601  l
+  602  ls
+  603  cat check_repetidos.sh 
+  604  ls
+  605  cat makefile 
+  606  ls
+  607  ls 2223-gruposC1-A2/
+  608  gwenview 2223-gruposC1-A2/P3-C2.pdf 
+  609  ls
+  610  cat create_exam.sh 
+  611  ./test.sh
+  612  ls -al
+  613  sh ./test.sh 
+  614  bash ./test.sh 
+  615  ls *pre
+  616  rm PRACTICA3-A1-C1.pre 
+  617  rm PRACTICA3_old.pre 
+  618  less README.md 
+  619  ls
+  620  rm -r 2223-gruposC1-A2/
+  621  ls
+  622  make clean
+  623  ls
+  624  rm *.tex
+  625  rm PRACTICA3.*
+  626  ls
+  627  vi create_exam.sh 
+  628  ls
+  629  bash ./create_exam.sh 
+  630  chmod 755 test.sh 
+  631  chmod 755 create_exam.sh 
+  632  ./create_exam.sh 
+  633  sudo apt-search pdflatex
+  634  apt-file
+  635  sudo apt install apt-file
+  636  apt-file update
+  637  sudo apt-file update
+  638  apt-file pdflatex
+  639  apt-file search pdflatex
+  640  sudo apt install texlive-latex-base texlive-latex-extra 
+  641  ./create_exam.sh 
+  642  sudo apt install atril
+  643  ls
+  644  atril test1.pdf 
+  645  ./create_exam.sh 
+  646  atril test1.pdf 
+  647  ./create_exam.sh 
+  648  atril test1.pdf 
+  649  pdflatex test1.tex 
+  650  ssh root@10.0.2.15
+  651  ssh juanlu@10.0.2.15
+  652  ping 10.0.2.15
+  653  exit
+  654  gedit 
+  655  sudo apt install octave
+  656  apt-file search octave
+  657  apt-file search octave | grep bin
+  658  sudo apt-get install octave-control octave-image octave-io octave-optim octave-signal octave-statistics
+  659  sudo apt install hexedit
+  660  ls
+  661  vi hola.txt
+  662  fi hola.txt 
+  663  bi hola.txt 
+  664  hexedit hola.txt 
+  665  sudo apt install bless
+  666  bless hola.txt 
+  667  sudo apt install bless
+  668  sudo apt install ghex
+  669  ghex hola.txt 
+  670  rm hola.txt 
+  671  gedit hola.txt
+  672  kate hola.txt
+  673  file -bi hola.txt 
+  674  rm hola.txt 
+  675  kate hola.txt
+  676  ghex hola.txt 
+  677  md5sum hola.txt 
+  678  kate hola.txt
+  679  md5sum hola.txt 
+  680  sha512sum hola.txt 
+  681  rm hola.txt 
+  682  cd MEGA
+  683  cd docencia/
+  684  cd 2024/FI/
+  685  ls
+  686  cd Clases/
+  687  ls
+  688  cd ..
+  689  ls
+  690  mkdir foo
+  691  cd foo
+  692  ls
+  693  kate hola.txt &
+  694  ghex hola.txt 
+  695  cat hola.txt 
+  696  md5sum hola.txt 
+  697  kate hola.txt 
+  698  md5sum hola.txt 
+  699  kate hola.txt 
+  700  cd
+  701  cd Descargas/software/
+  702  ls
+  703  sudo apt install ./code_1.94.1-1728111316_amd64.deb 
+  704  exit
+  705  sudo apt install vcode
+  706  mkdir projects
+  707  cd projects/
+  708  git clone git@github.com:juanluck/sandpile-scheduler.git
+  709  cd 
+  710  ssh-keygen 
+  711  cat /home/juanlu/.ssh/id_ed25519.pub
+  712  ssh-keygen -t rsa -b 4096
+  713  cat /home/juanlu/.ssh/id_rsa.pub
+  714  cd projects/
+  715  git clone git@github.com:juanluck/sandpile-scheduler.git
+  716  ls
+  717  cd sandpile-scheduler/
+  718  ls
+  719  cd sandpile-scheduler/
+  720  ls
+  721  ls -a
+  722  ls
+  723  code .
+  724  java -version
+  725  s
+  726  ls
+  727  cd ..
+  728  ls
+  729  ls -a
+  730  cd sandpile-scheduler/
+  731  ls
+  732  java -cp "$CLASSPATH:../snt/lib/*" org.PrintWorkload b=100 tasksperbotmethod=fixed tasksperbot=2048 methodruntime=normal runtimeavg=15 methodcodesize=normal codesizeavg=6 methodarrival=uniform arrivalavg=200 parsing=true fileprocessors=increasingQ2048 filenetwork=increasingC2048 q=2048 assignation=random rewiring=0.2 sandpile=false
+  733  ls
+  734  cd bin/
+  735  java -cp "$CLASSPATH:../snt/lib/*" org.PrintWorkload b=100 tasksperbotmethod=fixed tasksperbot=2048 methodruntime=normal runtimeavg=15 methodcodesize=normal codesizeavg=6 methodarrival=uniform arrivalavg=200 parsing=true fileprocessors=increasingQ2048 filenetwork=increasingC2048 q=2048 assignation=random rewiring=0.2 sandpile=false
+  736  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment b=100 tasksperbotmethod=fixed tasksperbot=2048 methodruntime=normal runtimeavg=15 methodcodesize=normal codesizeavg=6 methodarrival=uniform arrivalavg=200 parsing=true fileprocessors=increasingQ2048 filenetwork=increasingC2048 q=2048 assignation=roundrobin rewiring=0.2 sandpile=false
+  737  java -cp "$CLASSPATH:../snt/lib/*" org.CreateWorkload b=100 tasksperbotmethod=fixed tasksperbot=320 methodruntime=homogeneous runtimeavg=1 methodcodesize=homogeneous codesizeavg=0 methodarrival=testingsandpile arrivalavg=10
+  738  ls
+  739  cat archq100homogeneous.txt 
+  740  cat b_100_tpbot_fixed_320_D_homogeneous_0 
+  741  cat b_100_tpbot_fixed_320_N_homogeneous_1 
+  742  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment b=1000 tasksperbotmethod=fixed tasksperbot=32 methodruntime=homogeneous runtimeavg=1 methodcodesize=homogeneous codesizeavg=0 methodarrival=homogeneous arrivalavg=0 parsing=true fileprocessors=homogeneousQ32 filenetwork=homogeneousC32 q=32 assignation=frontend rewiring=0.2
+  743  ls
+  744  rm archq100homogeneous.txt archq81homogeneous.txt 
+  745  dolphin .
+  746  java -cp "$CLASSPATH:../snt/lib/*" org.CreateArchitecture q=2048 processortype=homogeneous rho=10 networktype=homogeneous
+  747  java -cp "$CLASSPATH:../snt/lib/*" org.CreateArchitecture q=2048 processortype=homogeneous networktype=homogeneous
+  748  ls
+  749  cat gnuplotSandpileModel.txt 
+  750  ls
+  751  cat workb1k40n1d0a0.params 
+  752  ls
+  753  cat homogeneousQ2048 
+  754  ls
+  755  cat homogeneousC2048
+  756  cat homogeneousQ2048 
+  757  ls
+  758  rm homogeneous*
+  759  java -cp "$CLASSPATH:../snt/lib/*" org.CreateArchitecture q=2048 processortype=homogeneous networktype=homogeneous
+  760  ls
+  761  java -cp "$CLASSPATH:../snt/lib/*" org.CreateArchitecture q=2048 processortype=homogeneous networktype=homogeneous
+  762  ls
+  763  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2048 filenetwork=homogeneousC2048 parsing=true b=1 topology=true
+  764  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2048 filenetwork=homogeneousC2048 parsing=true b=1 topology=true q=2048
+  765  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2048 filenetwork=homogeneousC2048 parsing=true b=1 topology=grid q=2048 
+  766  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2048 filenetwork=homogeneousC2048 parsing=true b=1 topology=grid 
+  767  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2048 filenetwork=homogeneousC2048 parsing=true b=1 topology=grid q=2048 
+  768  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2048 filenetwork=homogeneousC2048 parsing=true b=1 topology=grid q=2025
+  769  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment sandCanonicalGrid.params fileprocessors=homogeneousQ2048 filenetwork=homogeneousC2048 parsing=true 
+  770  ls
+  771  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment sandCanonicalGrid.params fileprocessors=homogeneousQ2048 filenetwork=homogeneousC2048 parsing=true 
+  772  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment sandCanonicalGrid.params fileprocessors=homogeneousQ2048 filenetwork=homogeneousC2048 parsing=true  > foo
+  773  gnuplot
+  774  exit
+  775  gnuplot
+  776  cd projects/sandpile-scheduler/sandpile-scheduler/
+  777  ls
+  778  code .
+  779  locate auver
+  780  dolphin /home/juanlu/MEGA/papers/2015/2015tdps/firstrevision/traces/auver.data.zip
+  781  exit
+  782  ls
+  783  wc -l b_1_tpbot_fixed_0_A_homogeneous_0 
+  784  wc -l b_1_tpbot_fixed_0_N_homogeneous_1 
+  785  mv b_1_tpbot_fixed_0_A_homogeneous_0 b_1106081_tpbot_fixed_0_A_homogeneous_0 
+  786  mv b_1_tpbot_fixed_0_N_homogeneous_1 b_1106081_tpbot_fixed_0_N_homogeneous_1 
+  787  mv b_1_tpbot_fixed_0_D_homogeneous_0 b_1106081_tpbot_fixed_0_D_homogeneous_0 
+  788  wc -l auverA.data 
+  789  wc -l auverN.data 
+  790  cp auverA.data b_67031_tpbot_fixed_0_A_homogeneous_0 
+  791  cp auverN.data b_67031_tpbot_fixed_0_N_homogeneous_1
+  792  cp auverD.data b_67031_tpbot_fixed_0_D_homogeneous_0
+  793  wc -l lcg.data 
+  794  wc -l lcgA.data 
+  795  cp lcg?.data ../snt/
+  796  wc -l lcgA.data 
+  797  cp lcgA.data ../snt/b_187520_tpbot_fixed_0_A_homogeneous_0 
+  798  cp lcgN.data ../snt/b_187520_tpbot_fixed_0_N_homogeneous_1
+  799  cp lcgD.data ../snt/b_187520_tpbot_fixed_0_D_homogeneous_0
+  800  less outputauver1 
+  801  cd ../traces/
+  802  dolphin .
+  803  cd ../
+  804  cd bin/
+  805  ls
+  806  gnuplot 
+  807  exit
+  808  locate CVA
+  809  cd projects/sandpile-scheduler/sandpile-scheduler/
+  810  ls
+  811  code .
+  812  ls
+  813  cd traces/
+  814  ls
+  815  cat auver.data 
+  816  ls
+  817  gnuplot
+  818  wc -l auver.data 
+  819  wc -l auver_A.data 
+  820  ls
+  821  cat auver.data 
+  822  cat auver_A.data 
+  823  less auver_A.data 
+  824  less auver_N.data 
+  825  dolphin .
+  826  cd ../bin/
+  827  ls
+  828  cat outputauver1 
+  829  ls
+  830  less outputauver1 
+  831  gnuplot
+  832  exit
+  833  top
+  834  cd projects/sandpile-scheduler/sandpile-scheduler/bin/
+  835  gnuplot
+  836  cd bin/
+  837  ls
+  838  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2048 q=2048 filenetwork=homogeneousC2048 parsing=true b=1 topology=grid
+  839  java -cp "$CLASSPATH:../snt/lib/*" org.CreateArchitecture q=2500 processortype=homogeneous rho=1 networktype=homogeneous tau=0
+  840  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2500 q=2500 filenetwork=homogeneousC2500 parsing=true b=1 topology=grid
+  841  cat b_1_tpbot_fixed_0_N_homogeneous_1
+  842  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2500 q=2500 filenetwork=homogeneousC2500 parsing=true b=1 topology=grid
+  843  cat b_1_tpbot_fixed_0_A_homogeneous_0
+  844  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2500 q=2500 filenetwork=homogeneousC2500 parsing=true b=1 topology=grid
+  845  ls
+  846  cd bin/
+  847  ls
+  848  cat homogeneousQ2500homogeneousC2500/b_1_tpbot_fixed_0_N_homogeneous_1_A_homogeneous_0_D_homogeneous_0/frontendSPgridorder/stats1728896715442.txt 
+  849  cd bin/
+  850  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2500 q=2500 filenetwork=homogeneousC2500 parsing=true b=1 topology=grid
+  851  java -cp "$CLASSPATH:../snt/lib/*" org.CreateWorkload b=1 tasksperbotmethod=fixed tasksperbot=2048 methodruntime=normal runtimeavg=15 methodcodesize=normal codesizeavg=6 methodarrival=uniform arrivalavg=200
+  852  ls
+  853  dolphin .
+  854  java -cp "$CLASSPATH:../snt/lib/*" org.CreateWorkload b=1 tasksperbotmethod=fixed tasksperbot=10 methodruntime=normal runtimeavg=15 methodcodesize=normal codesizeavg=6 methodarrival=uniform arrivalavg=200
+  855  dolphin .
+  856  java -cp "$CLASSPATH:../snt/lib/*" org.CreateWorkload b=2 tasksperbotmethod=fixed tasksperbot=10 methodruntime=normal runtimeavg=15 methodcodesize=normal codesizeavg=6 methodarrival=uniform arrivalavg=200
+  857  dolphin .
+  858  ls
+  859  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2500 q=2500 filenetwork=homogeneousC2500 parsing=true b=1106081 topology=grid
+  860  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2500 q=2500 filenetwork=homogeneousC2500 parsing=true b=1106081 topology=grid > outputdas2
+  861  less outputdas2 
+  862  gnuplot
+  863  less outputdas2 
+  864  cat outputdas2 
+  865  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2500 q=2500 filenetwork=homogeneousC2500 parsing=true b=67031 topology=grid 
+  866  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2500 q=2500 filenetwork=homogeneousC2500 parsing=true b=67031 topology=grid  > outputauver1
+  867  ls
+  868  kate outputauver1 
+  869  gnuplot
+  870  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2500 q=2500 filenetwork=homogeneousC2500 parsing=true b=67031 topology=grid  > outputauver1
+  871  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2500 q=2500 filenetwork=homogeneousC2500 parsing=true b=1106081 topology=grid > outputdas2 
+  872  [200~java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2500 q=2500 filenetwork=homogeneousC2500 parsing=true b=187520 topology=grid > outputlgc
+  873  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ2500 q=2500 filenetwork=homogeneousC2500 parsing=true b=187520 topology=grid > outputlgc
+  874  java -cp "$CLASSPATH:../snt/lib/*" org.CreateArchitecture q=5000 processortype=homogeneous rho=1 networktype=homogeneous tau=0
+  875  ls
+  876  du -h homogeneousC5000 
+  877  java -cp "$CLASSPATH:../snt/lib/*" org.CreateArchitecture q=4900 processortype=homogeneous rho=1 networktype=homogeneous tau=0
+  878  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=187520 topology=grid 
+  879  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=187520 topology=grid > outputlgc
+  880  ls
+  881  cat homogeneousQ4900homogeneousC4900/b_187520_tpbot_fixed_0_N_homogeneous_1_A_homogeneous_0_D_homogeneous_0/frontendSPgridorder/stats1728913435175.txt 
+  882  cat homogeneousQ4900homogeneousC4900/b_187520_tpbot_fixed_0_N_homogeneous_1_A_homogeneous_0_D_homogeneous_0/frontendSPgridorder/throughput1728913435175.txt 
+  883  cat homogeneousQ4900homogeneousC4900/b_187520_tpbot_fixed_0_N_homogeneous_1_A_homogeneous_0_D_homogeneous_0/frontendSPgridorder/topplefrequencies1728913435175.txt 
+  884  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=5000 topology=grid tasksperbotmethod=rampup
+  885  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=5000 topology=grid tasksperbotmethod=rampup > outputrampup
+  886  cd projects/sandpile-scheduler/sandpile-scheduler/bin/
+  887  gnuplot
+  888  cd
+  889  cd software/
+  890  ls
+  891  rm ../audacity-linux-3.6.4-x64.AppImage 
+  892  ls
+  893  sudo chmod 755 audacity-linux-3.6.4-x64.AppImage 
+  894  ./audacity-linux-3.6.4-x64.AppImage 
+  895  ls
+  896  sudo apt install ./sonic-visualiser_5.0.1_amd64.deb 
+  897  sonic-visualiser 
+  898  ls
+  899  less ejemplo.csv 
+  900  cd MEGA/
+  901  ls
+  902  rm hddtemp_0.3-beta15-53_amd64.deb 
+  903  rm P1-L0-\ Bitácora\ en\ GitHub.pdf 
+  904  atril Tema\ 1\ -\ Resumen\ -\ Ejercicios.pdf 
+  905  rm Tema\ 1\ -\ Resumen\ -\ Ejercicios.pdf 
+  906  ls
+  907  cd papers/
+  908  ls
+  909  cd 2024/
+  910  ls
+  911  cd ORSpectrum/
+  912  ls
+  913  gnuplot
+  914  cd software/
+  915  ls
+  916  sonic-visualiser 
+  917  bg
+  918  g
+  919  gnuplot
+  920  locate CVA
+  921  atril /home/juanlu/MEGA/tramites/2024/proyectoJA/CVA-Juan-Luis-Jimenez-Laredo.pdf
+  922  kate 
+  923  du -h borrar.txt 
+  924  cat borrar.txt 
+  925  du borrar.txt 
+  926  file borrar.txt
+  927  file bi borrar.txt
+  928  file -bi borrar.txt
+  929  ghex borrar.txt 
+  930  rm borrar.txt 
+  931  sonic-visualiser 
+  932  pavucontrol 
+  933  bg
+  934  sonic-visualiser 
+  935  gnuplot
+  936  kate 
+  937  sonic-visualiser 
+  938  bg
+  939  gnuplot
+  940  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ225 q=225 filenetwork=homogeneousC225 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr15.results
+  941  ls
+  942  cat evostar25_running-rampup-workload 
+  943  bash evostar25_running-rampup-workload 
+  944  less evostar25_rampup.results 
+  945  gnuplot 
+  946  ls
+  947  cat evostar25_rampup.gnuplot 
+  948  cd ../snt/
+  949  ls
+  950  kate evostar25_rampup_workload.gnuplot
+  951  gnuplot evostar25_rampup_workload.gnuplot 
+  952  cd ../bin/
+  953  gnuplot evostar25_rampup_workload.gnuplot 
+  954  gnuplot evostar25_rampup_resources.gnuplot 
+  955  gnuplot evostar25_rampup_workload.gnuplot 
+  956  gnuplot evostar25_rampup_flowtime.gnuplot 
+  957  gnuplot evostar25_rampup_workload.gnuplot 
+  958  #set terminal pdfcairo font "Sans,10" size 5,4  # Tamaño ajustable del PDF
+  959  #set output "evostar25_rampup_resources.pdf"
+  960  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ225 q=225 filenetwork=homogeneousC225 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr15.results
+  961  java -cp "$CLASSPATH:../snt/lib/*" org.CreateArchitecture q=100 processortype=homogeneous rho=1 networktype=homogeneous tau=0
+  962  java -cp "$CLASSPATH:../snt/lib/*" org.CreateArchitecture q=225 processortype=homogeneous rho=1 networktype=homogeneous tau=0
+  963  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ225 q=225 filenetwork=homogeneousC225 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr15.results
+  964  ls
+  965  gnuplot
+  966  cat evostar25_rampup.results 
+  967  gnuplot
+  968  ls
+  969  cat evostar25_rampup_rr15.results 
+  970  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ225 q=225 filenetwork=homogeneousC225 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false
+  971  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ225 q=225 filenetwork=homogeneousC225 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=true
+  972  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ225 q=225 filenetwork=homogeneousC225 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false
+  973  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ225 q=225 filenetwork=homogeneousC225 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=true
+  974  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ225 q=225 filenetwork=homogeneousC225 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false 
+  975  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ100 q=100 filenetwork=homogeneousC100 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false 
+  976  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ100 q=100 filenetwork=homogeneousC100 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=ture
+  977  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ100 q=100 filenetwork=homogeneousC100 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=true
+  978  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=5000 topology=grid tasksperbotmethod=rampup > evostar25_rampup.results
+  979  gnuplot evostar25_rampup_flowtime.gnuplot 
+  980  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ225 q=225 filenetwork=homogeneousC225 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr15.results
+  981  gnuplot
+  982  gnuplot evostar25_rampup_flowtime.gnuplot 
+  983  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ100 q=100 filenetwork=homogeneousC100 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr10.results
+  984  gnuplot evostar25_rampup_flowtime.gnuplot 
+  985  cat evostar25_rampup_rr10.results 
+  986  gnuplot evostar25_rampup_flowtime.gnuplot 
+  987  gnuplot evostar25_rampup_resources.gnuplot 
+  988  gnuplot evostar25_rampup_energy.gnuplot 
+  989  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ100 q=100 filenetwork=homogeneousC100 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr10.results
+  990  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ225 q=225 filenetwork=homogeneousC225 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr15.results
+  991  gnuplot evostar25_rampup_energy.gnuplot 
+  992  java -cp "$CLASSPATH:../snt/lib/*" org.CreateArchitecture q=25 processortype=homogeneous rho=1 networktype=homogeneous tau=0
+  993  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ25 q=25 filenetwork=homogeneousC25 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr5.results
+  994  gnuplot evostar25_rampup_flowtime.gnuplot 
+  995  gnuplot evostar25_rampup_energy.gnuplot 
+  996  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ225 q=225 filenetwork=homogeneousC225 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr15.results
+  997  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ100 q=100 filenetwork=homogeneousC100 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr10.results
+  998  gnuplot evostar25_rampup_energy.gnuplot 
+  999  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=5000 topology=grid tasksperbotmethod=rampup > evostar25_rampup.results
+ 1000  gnuplot evostar25_rampup_energy.gnuplot 
+ 1001  cat evostar25_rampup_rr5.results 
+ 1002  cat evostar25_rampup_rr10.results 
+ 1003  cat evostar25_rampup.results 
+ 1004  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=5000 topology=grid tasksperbotmethod=rampup > evostar25_rampup.results
+ 1005  gnuplot evostar25_rampup_energy.gnuplot 
+ 1006  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1007  gnuplot evostar25_rampup_resources.gnuplot 
+ 1008  gnuplot evostar25_rampup_energy.gnuplot 
+ 1009  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1010  gnuplot evostar25_rampup_resources.gnuplot 
+ 1011  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1012  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1013  gnuplot
+ 1014  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1015  gnuplot evostar25_rampup_workload.gnuplot 
+ 1016  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1017  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1018  kate evostar25_rampup_workload.gnuplot 
+ 1019  cp evostar25_rampup_workload.gnuplot evostar25_rampup_flowtime.gnuplot
+ 1020  kate evostar25_rampup_flowtime.gnuplot 
+ 1021  cat ../bin/borra.gnuplot 
+ 1022  gnuplot ../bin/evostar25_rampup_flowtime.gnuplot 
+ 1023  cd projects/sandpile-scheduler/sandpile-scheduler/bin/
+ 1024  ls
+ 1025  cd ..
+ 1026  code .
+ 1027  pushd .
+ 1028  cd ../../
+ 1029  ls
+ 1030  git clone git@github.com:juanluck/sandpile-evostar25.git
+ 1031  ls
+ 1032  cd sandpile-evostar25/
+ 1033  ls
+ 1034  sudo apt install inkskape -y
+ 1035  sudo apt install inkscape -y
+ 1036  inkscape 
+ 1037  cd software/
+ 1038  ls
+ 1039  chmod 755 Obsidian-1.7.4.AppImage 
+ 1040  ./Obsidian-1.7.4.AppImage 
+ 1041  sudo apt install obsidian
+ 1042  ls
+ 1043  sudo apt install ./obsidian_1.7.4_amd64.deb 
+ 1044  obsidian 
+ 1045  cd Documentos/
+ 1046  ls
+ 1047  gimp borrar.gif 
+ 1048  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=5000 topology=grid tasksperbotmethod=rampup > evostar25_rampup.results
+ 1049  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=5000 topology=grid tasksperbotmethod=rampup 
+ 1050  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=5000 topology=grid tasksperbotmethod=rampup > evostar25_rampup.results
+ 1051  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1052  [A
+ 1053  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1054  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=5000 topology=grid tasksperbotmethod=rampup > evostar25_rampup.results
+ 1055  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1056  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1057  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1058  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1059  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=5000 topology=grid tasksperbotmethod=rampup > evostar25_rampup.results
+ 1060  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1061  [200~java -cp "$CLASSPATH:../snt/lib/*" org.CreateArchitecture q=324 processortype=homogeneous rho=1 networktype=homogeneous tau=0
+ 1062  java -cp "$CLASSPATH:../snt/lib/*" org.CreateArchitecture q=324 processortype=homogeneous rho=1 networktype=homogeneous tau=0
+ 1063  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ25 q=25 filenetwork=homogeneousC25 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr5.results
+ 1064  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ225 q=225 filenetwork=homogeneousC225 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr15.results
+ 1065  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1066  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ100 q=100 filenetwork=homogeneousC100 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr10.results
+ 1067  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1068  java -cp "$CLASSPATH:../snt/lib/*" org.CreateArchitecture q=400 processortype=homogeneous rho=1 networktype=homogeneous tau=0
+ 1069  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ400 q=400 filenetwork=homogeneousC400 parsing=true b=5000 topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_rampup_rr20.results
+ 1070  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1071  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1072  gnuplot evostar25_rampup_workload.gnuplot 
+ 1073  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1074  atril evostar25_rampup_flowtime.pdf 
+ 1075  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1076  atril evostar25_rampup_flowtime.pdf 
+ 1077  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1078  atril evostar25_rampup_flowtime.pdf 
+ 1079  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1080  atril evostar25_rampup_flowtime.pdf 
+ 1081  gnuplot evostar25_rampup_flowtime.gnuplot 
+ 1082  ssh-copy-id -p 22022 juanlu@192.168.56.105
+ 1083  ssh-copy-id -p 22022 juanlu@192.168.56.110
+ 1084  exit
+ 1085  ping 192.168.56.105
+ 1086  ssh -l juanlu 192.168.56.105
+ 1087  ssh -l juanlu 192.168.56.110
+ 1088  ssh -l juanlu 192.168.56.110 -p 22022
+ 1089  ssh -p 22022 juanlu@192.168.56.110 
+ 1090  exit
+ 1091  ssh juanlu@192.168.56.105
+ 1092  ssh juanlu@192.168.56.105 -p 22022
+ 1093  ssh root@192.168.56.105 -p 22022
+ 1094  ssh juanlu@192.168.56.105 -p 22022
+ 1095  exit
+ 1096  cd projects/sandpile-scheduler/
+ 1097  ls
+ 1098  cd sandpile-scheduler/
+ 1099  ls
+ 1100  rm evostar25_rampup_rr15.results 
+ 1101  code .
+ 1102  cd bin/
+ 1103  ls
+ 1104  cat evostar25_rampup.results 
+ 1105  cat evostar25_rampup_rr10.results 
+ 1106  cd
+ 1107  cd Descargas/software/
+ 1108  sudo apt install ./discord-0.0.71.deb 
+ 1109  pavucontrol 
+ 1110  gnuplot evostar25_rampup_flowtime.gnuplot
+ 1111  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1112  gnuplot evostar25_rampup_flowtime.gnuplot
+ 1113  ssh juanlu@192.168.56.110
+ 1114  ssh -p 22022 juanlu@192.168.56.110
+ 1115  exit
+ 1116  ping 192.168.56.105
+ 1117  ping 192.168.56.110
+ 1118  ssh juanlu@192.168.56.105
+ 1119  ssh -p 22022 juanlu@192.168.56.105
+ 1120  ssh -p 22022 root@192.168.56.105
+ 1121  ufw status
+ 1122  ssh -p 22022 juanlu@192.168.56.105
+ 1123  cd MEGA/
+ 1124  cd ..
+ 1125  cd projects/sandpile-scheduler/sandpile-scheduler/
+ 1126  ls
+ 1127  code .
+ 1128  inkscape 
+ 1129  ls
+ 1130  cd Descargas/
+ 1131  pwd
+ 1132  wine ensam.exe 
+ 1133  wine entorno_code2.exe 
+ 1134  ip addr
+ 1135  inkscape 
+ 1136  sudo apt install  wine
+ 1137  ssh -p 22022 juanlu@192.168.56.105
+ 1138  exit
+ 1139  kate
+ 1140  ssh -p 22022 juanlu@192.168.56.110
+ 1141  exit
+ 1142  ssh -p 22022 juanlu@192.168.56.105
+ 1143  exit
+ 1144  ls .ssh/
+ 1145  ssh-copy-id -p 22022 juanlu@192.168.56.105
+ 1146  ssh-copy-id -p 22022 juanlu@192.168.56.110
+ 1147  ssh -p 22022 juanlu@192.168.56.105
+ 1148  ssh -p 22022 chewbacca@192.168.56.110
+ 1149  ssh -p 22022 juanlu@192.168.56.105 -X
+ 1150  sudo snap install urban-terror
+ 1151  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1152  gnuplot evostar25_rampup_workload.gnuplot 
+ 1153  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1154  gnuplot evostar25_rampup_flowtime.gnuplot
+ 1155  bash evostar25_running-Das2-workload 
+ 1156  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1157  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=1106081 topology=grid > evostar25_das2.results
+ 1158  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=67031 topology=grid > evostar25_auver1.results
+ 1159  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=67031 topology=grid topology=grid tasksperbotmethod=rampup assignation=roundrobin sandpile=false > evostar25_auver1_optimal.results
+ 1160  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=67031 topology=grid assignation=roundrobin sandpile=false > evostar25_auver1_optimal.results
+ 1161  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=67031 topology=grid assignation=roundrobin sandpile=true > evostar25_auver1_optimal.results
+ 1162  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ25 q=25 filenetwork=homogeneousC25 parsing=true b=1 topology=grid tasksperbotmethod=fixed assignation=roundrobin sandpile=true
+ 1163  java -cp "$CLASSPATH:../snt/lib/*" org.sandpile.PileInNode
+ 1164  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ25 q=25 filenetwork=homogeneousC25 parsing=true b=1 topology=grid tasksperbotmethod=fixed assignation=roundrobin sandpile=true
+ 1165  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=67031 topology=grid assignation=roundrobin sandpile=true > evostar25_auver1_optimal.results
+ 1166  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=67031 topology=grid > evostar25_auver1.results
+ 1167  ssh -p 22022 juanlu@192.168.56.110
+ 1168  ls .ssh/
+ 1169  cat .ssh/id_rsa.pub 
+ 1170  ssh -p 22022 juanlu@192.168.56.105
+ 1171  ssh -p 22022 juanlu@192.168.56.110
+ 1172  ssh-copy-id -p 22022 juanlu@192.168.56.110
+ 1173  ssh -p 22022 juanlu@192.168.56.110
+ 1174  ssh -p 22022 chewi@192.168.56.110
+ 1175  xeyes 
+ 1176  ssh -p 22022 juanlu@192.168.56.110 -X
+ 1177  ssh -p 22022 juanlu@192.168.56.105 -X
+ 1178  ssh -p 22022 juanlu@192.168.56.110
+ 1179  ssh -p 22022 juanlu@192.168.56.105
+ 1180  ssh -p 22022 juanlu@192.168.56.105 -X
+ 1181  exit
+ 1182  exit
+ 1183  cd projects/sandpile-scheduler/
+ 1184  ls
+ 1185  cd sandpile-scheduler/
+ 1186  ls
+ 1187  code .
+ 1188  cd bin/
+ 1189  cat evostar25_das2.results 
+ 1190  cat evostar25_auver1.results 
+ 1191  cat b_67031_tpbot_fixed_0_A_homogeneous_0 
+ 1192  cat evostar25_auver1.results 
+ 1193  gnuplot
+ 1194  less evostar25_auver1.results 
+ 1195  gnuplot
+ 1196  cat evostar25_auver1_optimal.results 
+ 1197  gnuplot
+ 1198  quit
+ 1199  cat evostar25_auver1_optimal.results 
+ 1200  less evostar25_auver1_optimal.results 
+ 1201  gnuplot
+ 1202  less evostar25_auver1_optimal.results 
+ 1203  gnuplot
+ 1204  ping -c 4 google.com
+ 1205  cat /etc/resolv.conf 
+ 1206  ping -c 4 8.8.8.8
+ 1207  gnuplot
+ 1208  ls
+ 1209  less evostar25_rampup.results 
+ 1210  pavucontrol 
+ 1211  ssh -p 22022 juanlu@192.168.56.110
+ 1212  ls .ssh/
+ 1213  cat .ssh/id_rsa.pub 
+ 1214  ssh -p 22022 juanlu@192.168.56.105
+ 1215  ssh-copy-id -p 22022 juanlu@192.168.56.110
+ 1216  cat .ssh/id_rsa.pub 
+ 1217  ssh -p 22022 chewi@192.168.56.110
+ 1218  ssh -p 22022 juanlu@192.168.56.105 -X
+ 1219  ssh -p 22022 juanlu@192.168.56.110 
+ 1220  exit
+ 1221  ssh -p 22022 juanlu@192.168.56.105 
+ 1222  exit
+ 1223  sudo apt install phoronix
+ 1224  sudo apt install phoronix-test-suite
+ 1225  cd Descargas/
+ 1226  ls
+ 1227  cd software/phoronix-test-suite-master/
+ 1228  ls
+ 1229  cat install-sh 
+ 1230  ls
+ 1231  less README.md 
+ 1232  ./install-sh 
+ 1233  sudo ./install-sh 
+ 1234  phoronix-test-suite 
+ 1235  sudo apt install php-cli php-xml
+ 1236  phoronix-test-suite 
+ 1237  phoronix-test-suite benchmark aobench.
+ 1238  phoronix-test-suite benchmark aobench
+ 1239  octave-cli 
+ 1240  octave
+ 1241  pdflatex test2.tex 
+ 1242  cd MEGA/docencia/2024/ISE/
+ 1243  ls
+ 1244  git clone git@github.com:juanluck/introduccion-a-git.git
+ 1245  cd introduccion-a-git/
+ 1246  ls
+ 1247  cd tp4/
+ 1248  ls
+ 1249  less index.md 
+ 1250  kate index.md 
+ 1251  ls
+ 1252  cd sandpile-scheduler/
+ 1253  ls
+ 1254  cd bin/
+ 1255  ls
+ 1256  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1257  gnuplot evostar25_rampup_energy.gnuplot 
+ 1258  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=5000 topology=grid tasksperbotmethod=rampup > evostar25_rampup.results
+ 1259  bash evostar25_creattingarchitecture 
+ 1260  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=5000 topology=grid tasksperbotmethod=rampup > evostar25_rampup.results
+ 1261  gnuplot evostar25_rampup_resources.gnuplot 
+ 1262  gnuplot evostar25_rampup_workload.gnuplot 
+ 1263  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1264  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=67031 topology=grid > evostar25_auver1.results
+ 1265  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=67031 topology=grid assignation=roundrobin sandpile=true > evostar25_auver1_optimal.results
+ 1266  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=187520 topology=grid 
+ 1267  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=187520 topology=grid > evostar25_lgc.results
+ 1268  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=187520 topology=grid assignation=roundrobin sandpile=true > evostar25_lgc_optimal.results
+ 1269  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=11123 topology=grid > evostar25_auver1.results
+ 1270  java -cp "$CLASSPATH:../snt/lib/*" org.Experiment fileprocessors=homogeneousQ4900 q=4900 filenetwork=homogeneousC4900 parsing=true b=11123 topology=grid assignation=roundrobin sandpile=true > evostar25_auver1_optimal.results
+ 1271  gnuplot evostar25_rampup_resources.gnuplot 
+ 1272  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1273  gnuplot evostar25_auver_resources.gnuplot 
+ 1274  gnuplot evostar25_auver_energy.gnuplot 
+ 1275  gnuplot evostar25_auver_resources.gnuplot 
+ 1276  gnuplot evostar25_lgc_energy.gnuplot 
+ 1277  gnuplot evostar25_lgc_resources.gnuplot 
+ 1278  gnuplot evostar25_auver_energy.gnuplot 
+ 1279  gnuplot evostar25_auver_resources.gnuplot 
+ 1280  gnuplot evostar25_lgc_energy.gnuplot 
+ 1281  gnuplot evostar25_lgc_resources.gnuplot 
+ 1282  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1283  gnuplot evostar25_rampup_workload.gnuplot 
+ 1284  ls *pdf
+ 1285  cp *.pdf ~/MEGA/papers/2024/evostar25/
+ 1286  gnuplot evostar25_rampup_resources-energy.gnuplot 
+ 1287  cp *.pdf ~/MEGA/papers/2024/evostar25/
+ 1288  gnuplot evostar25_rampup_workload.gnuplot 
+ 1289  cp *.pdf ~/MEGA/papers/2024/evostar25/
+ 1290  gnuplot evostar25_auver_energy.gnuplot 
+ 1291  gnuplot evostar25_auver_resources.gnuplot 
+ 1292  gnuplot evostar25_lgc_resources.gnuplot 
+ 1293  gnuplot evostar25_lgc_energy.gnuplot 
+ 1294  cp *.pdf ~/MEGA/papers/2024/evostar25/
+ 1295  gitk
+ 1296  sudo apt install gitk
+ 1297  cd projects/sandpile-scheduler/
+ 1298  ls
+ 1299  code .
+ 1300  cd sandpile-scheduler/bin/
+ 1301  ls
+ 1302  cat evostar25_auver1.results 
+ 1303  gnuplot
+ 1304  less evostar25_auver1.results 
+ 1305  gnuplot 
+ 1306  cat evostar25_lgc.results 
+ 1307  less evostar25_lgc.results 
+ 1308  gnuplot
+ 1309  cd
+ 1310  git config --global user.name "Juanlu Jiménez"
+ 1311  git config --global user.email juanlu.jimenez@gmail.com
+ 1312  cat .gitconfig 
+ 1313  meld
+ 1314  sudo apt install meld
+ 1315  meld 
+ 1316  git config --global core.editor meld
+ 1317  cat .gitconfig 
+ 1318  cd ..
+ 1319  ls
+ 1320  cat backuprsync.sh 
+ 1321  cd
+ 1322  cd MEGA/docencia/2024/FI/Clases/Prácticas/Practica3/CODE2/
+ 1323  ls
+ 1324  wine entorno_code2.exe 
+ 1325  bg
+ 1326  ls
+ 1327  wine ensam.exe ../ejemplo/pos_neg_ceros.asm 
+ 1328  cd MEGA/docencia/2024/FI/Clases/
+ 1329  ls
+ 1330  cd Prácticas/
+ 1331  ls
+ 1332  cd Practica3/
+ 1333  ls
+ 1334  cd CODE2/
+ 1335  ls
+ 1336  wine entorno_code2.exe &
+ 1337  ip addr
+ 1338  kate
+ 1339  ls
+ 1340  cd
+ 1341  git clone git@github.com:juanluck/bitacoras-ISE-24-25.git
+ 1342  cd bitacoras-ISE-24-25/
+ 1343  ls
+ 1344  vi README.md 
+ 1345  git diff
+ 1346  git add README.md 
+ 1347  git commit -m "borra punto"
+ 1348  git log --graph --oneline --all
+ 1349  gitk .
+ 1350  git diff
+ 1351  git push
+ 1352  cd ..
+ 1353  rm -rf bitacoras-ISE-24-25/
+ 1354  pwd
+ 1355  cd ..
+ 1356  ls
+ 1357  cat backuprsync.sh 
+ 1358  cd
+ 1359  git clone git@github.com:juanluck/bitacoras-ISE-24-25.git
+ 1360  cd bitacoras-ISE-24-25/
+ 1361  ls
+ 1362  git status
+ 1363  history > history-5-11-P2-L1.txt
