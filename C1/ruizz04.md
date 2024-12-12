@@ -1,1 +1,1 @@
-- [Pedro Ruiz Castaño](https://github.com/ruizz04/practicas-ISE)
+- [Pedro Ruiz Castaño](https://github.com/ruizz04/practicasISE)
